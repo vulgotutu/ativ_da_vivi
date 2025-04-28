@@ -1,0 +1,12 @@
+body{
+    background-color: darkslategrey;
+}
+.container-box{
+    background-color: black;
+    width: 500px;
+    height: 200px;
+    margin: 0 auto; /*centralizando a div*/
+}
+.texto{
+    color: azure;
+}
