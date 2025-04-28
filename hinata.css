@@ -1,0 +1,25 @@
+body{
+background-color:aliceblue ;
+display: flex;
+flex-direction: row;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+section>img {
+    width: 1000px;
+}
+
+.texto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 3em;
+    padding: 150px;
+}
+

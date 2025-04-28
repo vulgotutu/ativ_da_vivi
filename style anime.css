@@ -1,16 +1,19 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-image: url(https://th.bing.com/th/id/R.27114088985793d715d77c2dfd4aacc4?rik=XH%2fR0%2bVx%2bed6nw&pid=ImgRaw&r=0);
+    background-size: cover;
 }
+     
  
 .container{
     display: flex;
     justify-content: center;
     border-radius: 20px;
+    
    
 }
  
 .item{
-    background-color:brown;
+    background-color:rgb(14, 25, 77);
     margin: 10px;
     padding: 20px;
   
