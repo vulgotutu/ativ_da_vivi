@@ -2,6 +2,8 @@ body{
 background-color:aliceblue ;
 display: flex;
 flex-direction: row;
+overflow: hidden;
+
 }
 
 .container{
@@ -10,16 +12,17 @@ flex-direction: row;
     border-radius: 20px;
 }
 
-section>img {
+section img {
     width: 1000px;
+   
 }
 
 .texto {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
-    font-size: 3em;
-    padding: 150px;
+    font-size: 2em;
+    margin: 150px;
+    margin-top: 180px;
 }
 
